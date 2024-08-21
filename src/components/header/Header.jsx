@@ -106,7 +106,7 @@ const Header = () => {
         <div className='flex gap-[170px] text-center justify-center items-center  '>
           <h2 className=''>Thanks <span className='text-[#EE5626]'> for coming!</span></h2>
           <br />
-          <NavLink href="mailto:https://github.com/Abdullayev-Sarvar">https://github.com/Abdullayev-Sarvar</NavLink>
+          <NavLink href="https://github.com/Abdullayev-Sarvar">https://github.com/Abdullayev-Sarvar</NavLink>
           <br />
           <div className='flex gap-6 bg-[white] rounded-full p-2  '>
             <NavLink href="">  <img src={tvtr} alt="" /></NavLink>
