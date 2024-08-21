@@ -106,12 +106,12 @@ const Header = () => {
         <div className='flex gap-[170px] text-center justify-center items-center  '>
           <h2 className=''>Thanks <span className='text-[#EE5626]'> for coming!</span></h2>
           <br />
-          <NavLink href="mailto:dilshodumbarov707@gmail.com">https://github.com/Abdullayev-Sarvar</NavLink>
+          <NavLink href="mailto:https://github.com/Abdullayev-Sarvar">https://github.com/Abdullayev-Sarvar</NavLink>
           <br />
           <div className='flex gap-6 bg-[white] rounded-full p-2  '>
-            <NavLink href="https://x.com/">  <img src={tvtr} alt="" /></NavLink>
+            <NavLink href="">  <img src={tvtr} alt="" /></NavLink>
             <NavLink href=""> <img src={tvtr2} alt="" /></NavLink>
-            <NavLink href="https://www.figma.com/design/22BfdyLdu7I9GVbT5o5dOA/Simple-Website-Blog-Space-(GBLOG)-(Community)?node-id=0%3A1"> <img src={figma} alt="" /></NavLink>
+            <NavLink href=""> <img src={figma} alt="" /></NavLink>
           </div>
         </div>
        </Link>
